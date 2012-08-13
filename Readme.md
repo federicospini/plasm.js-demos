@@ -1,1 +1,1 @@
-# Plasm.js demo repository
+# Plasm.js demos repository
