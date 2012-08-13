@@ -1,0 +1,57 @@
+220279 +S +F
+228091 dd dd
+240728 nh nh
+258942 dd -F(neuro-cell)
+261921 +S +F
+265629 nh -F(neuro-cell)
+266491 nh nh
+266711 +S +F
+266867 nh nh
+267055 nh dd
+269654 dd -F(multi-DRAW)
+281549 +S -F(too much memory)
+281790 nh nh
+281947 nh nh
+283875 nh nh
+283890 -S -F
+403266 dd -F(has animations)
+404033 +S dd
+404035 +S +F(multi-DRAW)
+404040 dd +F
+404688 +S nh 
+404690 nh nh
+404701 nh +F(multi-DRAW)
+405153 +S +F
+406335 nh +F
+416644 +S(chessboard) +S 
+417018 dd dd
+417021 +S -F(modulized)
+417522 +S(chessboard) -F
+418041 +S(chessboard) +F
+418042 +S(chessboard) +F
+418043 +S(chessboard) +F
+418044 dd dd
+418839 +S(chessboard) +F
+419841 +S (chessboard) +F(multi-DRAW)
+431050 dd dd
+443686 dd dd(no-page)
+453905 +S +F
+453906 +S +F
+453907 +S +F
+453909 nh nh
+453996 nh nh
+454591 +S -F
+454697 +S -F
+454863 +S +F
+454900 nh nh
+455353 dd +F
+60117  dd nh
+
+
+------------------------------
+legenda:
+
++S/+F   added showcase/final
+-S/-F   to add showcase/finale
+dd      discarded
+nh      not have
